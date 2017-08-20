@@ -1,0 +1,219 @@
+COUNTRY,CODE,GDP_per_capital
+Afghanistan,AFG,2000
+Albania,ALB,11900
+Algeria,DZA,15000
+American Samoa,ASM,13000
+Andorra,AND,37200
+Angola,AGO,7600
+Anguilla,AIA,12200
+Antigua and Barbuda,ATG,24100
+Argentina,ARG,20200
+Armenia,ARM,8400
+Aruba,ABW,25300
+Australia,AUS,48800
+Austria,AUT,47900
+Azerbaijan,AZE,17700
+"Bahamas, The",BHM,"24,600"
+Bahrain,BHR,50300
+Bangladesh,BGD,3600
+Barbados,BRB,17200
+Belarus,BLR,17500
+Belgium,BEL,44900
+Belize,BLZ,8600
+Benin,BEN,2000
+Bermuda,BMU,85700
+Bhutan,BTN,8200
+Bolivia,BOL,6500
+Bosnia and Herzegovina,BIH,11000
+Botswana,BWA,16900
+Brazil,BRA,15200
+British Virgin Islands,VGB,42300
+Brunei,BRN,79700
+Bulgaria,BGR,20100
+Burkina Faso,BFA,1800
+Burundi,BDI,800
+Cabo Verde,CPV,"6,700"
+Cambodia,KHM,3500
+Cameroon,CMR,3200
+Canada,CAN,46200
+Cayman Islands,CYM,43800
+Central African Republic,CAF,700
+Chad,TCD,2800
+Chile,CHL,24000
+China,CHN,15400
+Colombia,COL,14200
+Comoros,COM,1600
+"Congo, Democratic Republic of the",COD,800
+"Congo, Republic of the",COG,"6,800"
+Cook Islands,COK,12300
+Costa Rica,CRI,16100
+Cote d'Ivoire,CIV,"3,400"
+Croatia,HRV,22400
+Cuba,CUB,11600
+Curacao,CUW,"15,000"
+Cyprus,CYP,34400
+Czech Republic,CZE,33200
+Denmark,DNK,46600
+Djibouti,DJI,3300
+Dominica,DMA,11400
+Dominican Republic,DOM,15900
+Ecuador,ECU,11000
+Egypt,EGY,12100
+El Salvador,SLV,8300
+Equatorial Guinea,GNQ,38700
+Eritrea,ERI,1200
+Estonia,EST,29500
+Ethiopia,ETH,1700
+Falkland Islands (Islas Malvinas),FLK,"55,400"
+Faroe Islands,FRO,36600
+Fiji,FJI,9400
+Finland,FIN,41800
+France,FRA,42400
+French Polynesia,PYF,26100
+Gabon,GAB,19300
+Georgia,GEO,10100
+Germany,DEU,48200
+Ghana,GHA,4300
+Gibraltar,GIB,43000
+Greece,GRC,26800
+Greenland,GRL,37900
+Grenada,GRD,14100
+Guam,GUM,30500
+Guatemala,GTM,7900
+Guernsey,GGY,52300
+Guinea-Bissau,GNB,1500
+Guinea,GIN,1300
+Guyana,GUY,7200
+Haiti,HTI,1800
+Honduras,HND,5000
+Hong Kong,HKG,58100
+Hungary,HUN,27200
+Iceland,ISL,48100
+India,IND,6200
+Indonesia,IDN,11700
+Iran,IRN,18100
+Iraq,IRQ,16500
+Ireland,IRL,69400
+Isle of Man,IMN,83100
+Israel,ISR,34800
+Italy,ITA,36300
+Jamaica,JAM,9000
+Japan,JPN,38900
+Jersey,JEY,57000
+Jordan,JOR,11100
+Kazakhstan,KAZ,25700
+Kenya,KEN,3300
+Kiribati,KIR,2200
+"Korea, North",KOR,"1,800"
+"Korea, South",PRK,"37,900"
+Kosovo,KSV,10000
+Kuwait,KWT,71300
+Kyrgyzstan,KGZ,3400
+Laos,LAO,5400
+Latvia,LVA,25700
+Lebanon,LBN,18500
+Lesotho,LSO,3000
+Liberia,LBR,900
+Libya,LBY,14200
+Liechtenstein,LIE,89400
+Lithuania,LTU,29900
+Luxembourg,LUX,102000
+Macau,MAC,87100
+Macedonia,MKD,14500
+Madagascar,MDG,1500
+Malawi,MWI,1200
+Malaysia,MYS,27200
+Maldives,MDV,15300
+Mali,MLI,1800
+Malta,MLT,37900
+Marshall Islands,MHL,3400
+Mauritania,MRT,4500
+Mauritius,MUS,20500
+Mexico,MEX,18900
+"Micronesia, Federated States of",FSM,"3,000"
+Moldova,MDA,5000
+Monaco,MCO,78700
+Mongolia,MNG,12200
+Montenegro,MNE,17000
+Morocco,MAR,8300
+Mozambique,MOZ,1300
+Namibia,NAM,11800
+Nepal,NPL,2500
+Netherlands,NLD,50800
+New Caledonia,NCL,38800
+New Zealand,NZL,37100
+Nicaragua,NIC,5000
+Nigeria,NGA,6400
+Niger,NER,1100
+Niue,NIU,5800
+Northern Mariana Islands,MNP,13300
+Norway,NOR,69300
+Oman,OMN,43700
+Pakistan,PAK,4900
+Palau,PLW,15300
+Panama,PAN,22800
+Papua New Guinea,PNG,2800
+Paraguay,PRY,9400
+Peru,PER,13000
+Philippines,PHL,7500
+Poland,POL,27700
+Portugal,PRT,28500
+Puerto Rico,PRI,37700
+Qatar,QAT,129700
+Romania,ROU,22300
+Russia,RUS,26100
+Rwanda,RWA,1800
+Saint Kitts and Nevis,KNA,25500
+Saint Lucia,LCA,12000
+Saint Martin,MAF,19300
+Saint Pierre and Miquelon,SPM,34900
+Saint Vincent and the Grenadines,VCT,11300
+Samoa,WSM,5400
+San Marino,SMR,65300
+Saudi Arabia,SAU,54100
+Senegal,SEN,2500
+Serbia,SRB,14200
+Seychelles,SYC,28000
+Sierra Leone,SLE,1600
+Singapore,SGP,90100
+Sint Maarten,SXM,66800
+Slovakia,SVK,31200
+Slovenia,SVN,32000
+Solomon Islands,SLB,2000
+Somalia,SOM,400
+South Africa,ZAF,13200
+South Sudan,SSD,2000
+Spain,ESP,36500
+Sri Lanka,LKA,11200
+Sudan,SDN,4500
+Suriname,SUR,15200
+Swaziland,SWZ,9800
+Sweden,SWE,49700
+Switzerland,CHE,59400
+Syria,SYR,5100
+Taiwan,TWN,47800
+Tajikistan,TJK,2800
+Tanzania,TZA,3000
+Thailand,THA,16800
+Timor-Leste,TLS,5800
+Togo,TGO,1500
+Tonga,TON,5100
+Trinidad and Tobago,TTO,31900
+Tunisia,TUN,11700
+Turkey,TUR,21100
+Turkmenistan,TKM,17300
+Tuvalu,TUV,3400
+Uganda,UGA,2100
+Ukraine,UKR,8000
+United Arab Emirates,ARE,67700
+United Kingdom,GBR,42500
+United States,USA,57300
+Uruguay,URY,21600
+Uzbekistan,UZB,6100
+Vanuatu,VUT,2600
+Venezuela,VEN,15100
+Vietnam,VNM,6100
+Virgin Islands,VGB,"36,100"
+Yemen,YEM,2800
+Zambia,ZMB,4200
+Zimbabwe,ZWE,2100

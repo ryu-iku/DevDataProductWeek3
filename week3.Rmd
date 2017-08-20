@@ -1,0 +1,42 @@
+---
+title: "GDP per capital by country"
+author: "Liu Yu"
+date: "2017/8/20"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## Data of GDP per capital by country
+Head of the data:
+```{r echo=TRUE,eval=TRUE}
+df <- read.csv("world_gdp_per_capital.csv")
+# Data source: https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita
+head(df)
+```
+
+## Graph of GDP per capital by country
+
+```{r}
+library(plotly)
+df$GDP_per_capital <- as.numeric(as.character(df$GDP_per_capital))
+# light grey boundaries
+l <- list(color = toRGB("grey"), width = 0.5)
+
+# specify map projection/options
+g <- list(
+    showframe = FALSE,
+    showcoastlines = FALSE,
+    projection = list(type = 'Mercator')
+)
+
+plot_geo(df) %>%
+    add_trace(
+        z = ~GDP_per_capital, color = ~GDP_per_capital, colors = 'Reds',
+        text = ~COUNTRY, locations = ~CODE, marker = list(line = l)
+    ) %>%
+    colorbar(title = 'GDP per capital US$', tickprefix = '$') %>%
+    layout(geo = g)
+```
